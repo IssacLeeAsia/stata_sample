@@ -1,4 +1,12 @@
-# README
+---
+format: 
+    pdf:
+        geometry:
+            - top=15mm
+            - right=20mm
+            - left=20mm
+            - bottom=15mm
+---
 
 ## Overview
 
@@ -36,4 +44,4 @@ The **manuscripts** folder contains sections of the paper, including the introdu
 
 ## Contact
 
-For any questions or further information, please contact Bangyan (Martin) Chen at bc3517@nyu.edu
+For any questions or further information, please contact Bangyan (Martin) Chen at <bc3517@nyu.edu>
