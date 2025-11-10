@@ -31,7 +31,7 @@ The **manuscripts** folder contains sections of the paper, including the introdu
 ## Usage
 
 1. **Data Directory Setup**: Ensure that you set the correct data directory at the beginning of each `.do` file.
-2. **STATA Version**: Use STATA 18 or later to ensure compatibility with the provided code, especially for the "dtable" function.
+2. **STATA Version**: Use STATA 18 or later to ensure compatibility with the provided code, especially for the `dtable` function.
 3. **Output Options**: Choose whether to save the processed datasets in the original data directory or a new output folder at your convenience.
 
 ## Contact
